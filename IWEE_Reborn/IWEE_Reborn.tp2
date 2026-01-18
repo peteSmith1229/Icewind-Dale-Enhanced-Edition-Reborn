@@ -1,0 +1,33 @@
+BACKUP ~IWEE_Reborn/backup~
+AUTHOR ~pete_smith1229~
+
+VERSION ~v1.0~
+
+//README ~IWEE_Reborn/README.%LANGUAGE%.txt~ 
+
+////////////////////////////////////////////////////////////////////////////
+
+BEGIN ~IWEE_Reborn component name~
+
+PRINT "Copying DATA files to folder"
+COPY ~IWEE_Reborn/data/~ ~data~
+
+PRINT "Copying DIALOG file to folder"
+COPY ~IWEE_Reborn/lang/en_US/dialog.tlk~ ~lang\en_US~
+
+PRINT "Copying MOVIES files to folder"
+COPY ~IWEE_Reborn/movies/rest.wbm~ ~movies~
+COPY ~IWEE_Reborn/movies/restdung.wbm~ ~movies~
+
+PRINT "Copying MUSIC files to folder"
+COPY ~IWEE_Reborn/music/~ ~music~
+COPY ~IWEE_Reborn/music/rb_mus/~ ~music/rb_mus~
+
+PRINT "Copying OVERRIDE files to folder"
+COPY ~IWEE_Reborn/override/~ ~override~
+
+PRINT "Copying chitin.key file to folder"
+COPY ~IWEE_Reborn/chitin.key~ ~chitin.key~
+
+
+//End of file
