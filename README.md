@@ -37,6 +37,7 @@ Here are some of the main aspects of the mod:
 
 ## Recommended Party
 This mod is designed for vanilla classes where each class has been revamped in terms of weapon proficiency (e.g. a Thief can gain Grand Mastery (5 points) in Daggers and Short Swords). These changes are highlighed during the Character Creation stage
+
 <img width="640" height="448" alt="image" src="https://github.com/user-attachments/assets/15922321-d72b-49fe-8b5e-6d1a0e371e5a" />
 
 Various items, weapons, and armor can also only be used by specific classes. **It is recommended to have ONE of each class:**
@@ -51,6 +52,13 @@ Various items, weapons, and armor can also only be used by specific classes. **I
 
 
 ## Installation
+1. Download the Zip file.
+2. Extract all contents to the Icewind Dale EE directory (e.g. *C:/Program Files (x86)/Steam/steamapps/common/Icewind Dale Enhanced Edition/*).
+3. Run the *setup-IWEE_Reborn.exe* file.
+4. When prompted, install the mod.
+5. When complete, exit the setup. To confirm if the mod has been installed, run the main Icewind Dale game. The menu should look slightly different.
+   
+   <img width="640" height="448" alt="image" src="https://github.com/user-attachments/assets/37fc43ec-3a4d-4863-8f99-06d9108cdf59" />
 
 
 
