@@ -52,11 +52,12 @@ Various items, weapons, and armor can also only be used by specific classes. **I
 
 
 ## Installation
-1. Download the Zip file.
-2. Extract all contents to the Icewind Dale EE directory (e.g. *C:/Program Files (x86)/Steam/steamapps/common/Icewind Dale Enhanced Edition/*).
-3. Run the *setup-IWEE_Reborn.exe* file.
-4. When prompted, install the mod.
-5. When complete, exit the setup. To confirm if the mod has been installed, run the main Icewind Dale game. The menu should look slightly different.
+1. This mod requires a fresh install of Icewind Dale Enhanced Edition. As such, this may not be compatible with other mods (use at your own discretion).
+2. Download the Zip file.
+3. Extract all contents to the Icewind Dale EE directory (e.g. *C:/Program Files (x86)/Steam/steamapps/common/Icewind Dale Enhanced Edition/*).
+4. Run the *setup-IWEE_Reborn.exe* file.
+5. When prompted, install the mod.
+6. When complete, exit the setup. To confirm if the mod has been installed, run the main Icewind Dale game. The menu should look slightly different.
    
    <img width="640" height="448" alt="image" src="https://github.com/user-attachments/assets/37fc43ec-3a4d-4863-8f99-06d9108cdf59" />
 
