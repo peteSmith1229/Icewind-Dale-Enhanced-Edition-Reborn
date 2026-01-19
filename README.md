@@ -71,7 +71,7 @@ Various items, weapons, and armor can also only be used by specific classes. **I
 
 
 ## Credits
-I would like to thank the modders from the Gibberlings3 forum for helping me with my queries on how to mod Icewind Dale. As such, I will greatly emphasise that this mod was not in any way endorsed nor encouraged by the Gibberlings3 forum. Therefore, I will not name the individuals who have helped me but they know who they are if they answered or provided help to my questions.
+I would like to thank the modders from the Gibberlings3 forum for helping me with my queries on how to mod Icewind Dale. As such, I will greatly emphasise that this mod was not in any way endorsed nor encouraged by the Gibberlings3 forum. Therefore, I will not name the individuals who have helped me but they know who they are if they answered or provided help to my questions. I will also credit developers of the inspirational SCS mod in which parts of various enemy AI scripts were used in conjunction with my own.
 
 This free mod contains references to copyrighted material, the rights to which are NOT owned by me. All intellectual property rights for various assets (e.g., names, characters, graphics, sounds, music, etc.) belong to the Original Creators/Owners/Company. This fan-made work is created purely for entertainment purposes only and is not intended for commercial gain. Any use of copyrighted material is done under the principles of fair use as outlined in Section 107 of the Copyright Act of 1976.
 
