@@ -78,15 +78,14 @@ This free mod contains references to copyrighted material, the rights to which a
 The following list contains the names of the material in which the assets were derived, and the names of their respective ownership:
 
 - Asterix in Britain (René Goscinny and Albert Uderzo, Dargaud Films, Les Productions René Goscinny)
+- Devil May Cry (Capcom)
+- Emperor Rise of the Middle Kingdom (Sierra Entertainment)
+- Final Fantasy Mystic Quest (Squaresoft)
+- Guild Wars (ArenaNet)
+- Illusion of Gaia/Time (Enix)
+- Naruto (Masashi Kishimoto, TV Tokyo)
 - Secret of Mana (Squaresoft)
 - Secret of Evermore (Squaresoft USA)
-- Illusion of Gaia/Time (Enix)
-- Devil May Cry (Capcom)
 - The Lord of the Rings (J.R.R. Tolkien, New Line Cinema)
-- Guild Wars (ArenaNet)
-- Final Fantasy Mystic Quest (Squaresoft)
-- Warhammer (Games Workshop)
-- Naruto (Masashi Kishimoto, TV Tokyo)
 - Thief (Eidos Interactive)
-- Emperor Rise of the Middle Kingdom (Sierra Entertainment)
-
+- Warhammer (Games Workshop)
