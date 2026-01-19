@@ -1,5 +1,5 @@
 # Icewind-Dale-Enhanced-Edition-Reborn
-Lore-breaking reimagination of Icewind Dale with new items, item abilities, quests, NPCs, bounties, and armor-set bonuses. All new in-game texts are coloured to help players easily see new conversations (blue), responses (yellow) or descriptions (green/red).
+Lore-breaking reimagination of Icewind Dale with new items, item abilities, quests, NPCs, bounties, weapons (with new ranged staves and spears), and armor-set bonuses. All new in-game texts are coloured to help players easily see new conversations (blue), responses (yellow) or descriptions (green/red).
 
 ## Introduction
 My childhood was in the late eighties and nineties and I grew up with some incredible games from Sega, Nintendo, MS-DOS, not to mention some cartoons and other media. As such, I took great inspiration from these, so great that I referenced these and incorporated them into this mod. These include names, animations, icons, voices, and music from various sources (see [Credits](https://github.com/peteSmith1229/Icewind-Dale-Enhanced-Edition-Reborn/edit/main/README.md#credits)).
@@ -17,7 +17,7 @@ Here are some of the main aspects of the mod:
 
 ![Alchemy](https://i.ibb.co/CHPXsN4/Flash.jpg)
 
- - New weapon abilities which can only be activated when wielding the weapon itself and ranged staves and spears
+ - New weapon abilities which can only be activated when wielding the weapon itself
 
 ![weapon abilities](https://i.ibb.co/fXWj1WN/gw-skills.jpg)
 ![weapon abilities2](https://i.ibb.co/gJ0rd6w/Fall-back.jpg)
