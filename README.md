@@ -17,7 +17,7 @@ Here are some of the main aspects of the mod:
 
 ![Alchemy](https://i.ibb.co/CHPXsN4/Flash.jpg)
 
- - New weapon abilities which can only be activated when wielding the weapon itself
+ - New weapon abilities which can only be activated when wielding the weapon itself and ranged staves and spears
 
 ![weapon abilities](https://i.ibb.co/fXWj1WN/gw-skills.jpg)
 ![weapon abilities2](https://i.ibb.co/gJ0rd6w/Fall-back.jpg)
