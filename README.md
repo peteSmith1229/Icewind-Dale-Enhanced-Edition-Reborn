@@ -13,7 +13,7 @@ Here are some of the main aspects of the mod:
 
 ![weaponsmiths](https://i.ibb.co/L1bRtJk/Cecil-weaponsmith.jpg)
 
- - New Alchemy system where finding and combining rare ingredients will award you with new spells (greatly aided by the Ranger's Tracking ability)
+ - New Alchemy system where finding and combining rare ingredients will award you with new spells (ingredients spawn on the map where the Ranger's Tracking ability can help locate)
 
 ![Alchemy](https://i.ibb.co/CHPXsN4/Flash.jpg)
 
@@ -36,7 +36,7 @@ Here are some of the main aspects of the mod:
 
 
 ## Recommended Party
-This mod is designed for vanilla classes where each class has been revamped in terms of weapon proficiency (e.g. a Thief can gain Grand Mastery (5 points) in Daggers and Short Swords). These changes are highlighed during the Character Creation stage
+This mod is designed for vanilla classes where each class has been revamped in terms of weapon proficiency (e.g. a Thief can gain Grand Mastery (5 points) in Daggers and Short Swords). These changes are highlighted during the Character Creation stage
 
 <img width="640" height="448" alt="image" src="https://github.com/user-attachments/assets/15922321-d72b-49fe-8b5e-6d1a0e371e5a" />
 
@@ -64,7 +64,7 @@ Various items, weapons, and armor can also only be used by specific classes. **I
 
 
 ## Credits
-I would like to thank modders from the Gibberlings3 forum for helping me with my queries on how to mod Icewind Dale. As such, I will greatly emphasise that this mod was not in any way endorsed nor encouraged by the Gibberlings3 forum. Therefore, I will not name the invdividuals who have helped me but they know who they are if they answered or provided help to my questions.
+I would like to thank the modders from the Gibberlings3 forum for helping me with my queries on how to mod Icewind Dale. As such, I will greatly emphasise that this mod was not in any way endorsed nor encouraged by the Gibberlings3 forum. Therefore, I will not name the individuals who have helped me but they know who they are if they answered or provided help to my questions.
 
 This free mod contains references to copyrighted material, the rights to which are NOT owned by me. All intellectual property rights for various assets (e.g., names, characters, graphics, sounds, music, etc.) belong to the Original Creators/Owners/Company. This fan-made work is created purely for entertainment purposes only and is not intended for commercial gain. Any use of copyrighted material is done under the principles of fair use as outlined in Section 107 of the Copyright Act of 1976.
 
