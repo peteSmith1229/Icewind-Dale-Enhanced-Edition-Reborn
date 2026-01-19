@@ -1,5 +1,5 @@
 # Icewind-Dale-Enhanced-Edition-Reborn
-Lore-breaking reimagination of Icewind Dale with new items, item abilities, quests, NPCs, bounties, weapons (with new ranged staves and spears), and armor-set bonuses. All new in-game texts are coloured to help players easily see new conversations (blue), responses (yellow) or descriptions (green/red).
+Lore-breaking reimagination of Icewind Dale with new items, item abilities, quests, NPCs, bounties, weapons (with new ranged staves and spears), and armor-set bonuses. All new in-game texts are coloured to help players easily see new conversations (blue), responses (yellow) or descriptions (green/red). This mod is designed for the **Heart of Fury difficulty mode**.
 
 - [Introduction](#introduction)
 - [Recommended Party](#recommended-party)
