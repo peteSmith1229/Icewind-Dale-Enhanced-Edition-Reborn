@@ -46,7 +46,7 @@ This mod is designed for vanilla classes where each class has been revamped in t
 
 <img width="640" height="448" alt="image" src="https://github.com/user-attachments/assets/15922321-d72b-49fe-8b5e-6d1a0e371e5a" />
 
-Various items, weapons, and armor can also only be used by specific classes. **It is recommended to have ONE class from the following list:**
+Various items, weapons, and armor can also only be used by specific classes. **It is recommended to choose the vanilla classes:**
 - Fighter
 - Ranger
 - Paladin
